@@ -1,0 +1,28 @@
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\bin\Debug\net8.0\lab1.exe
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\bin\Debug\net8.0\lab1.deps.json
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\bin\Debug\net8.0\lab1.dll
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\bin\Debug\net8.0\lab1.pdb
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\obj\Debug\net8.0\lab1.dll
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\obj\Debug\net8.0\lab1.pdb
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+C:\Users\2004a\Desktop\Smth\4 курс 1 сем\Шарпи\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\bin\Debug\net8.0\lab1.exe
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\bin\Debug\net8.0\lab1.deps.json
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\bin\Debug\net8.0\lab1.runtimeconfig.json
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\bin\Debug\net8.0\lab1.dll
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\bin\Debug\net8.0\lab1.pdb
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\obj\Debug\net8.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfoInputs.cache
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\obj\Debug\net8.0\lab1.AssemblyInfo.cs
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\obj\Debug\net8.0\lab1.csproj.CoreCompileInputs.cache
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\obj\Debug\net8.0\lab1.dll
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\obj\Debug\net8.0\refint\lab1.dll
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\obj\Debug\net8.0\lab1.pdb
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\obj\Debug\net8.0\lab1.genruntimeconfig.cache
+C:\Users\2004a\Desktop\Smth\4_1\CSharp\lab1\lab1\obj\Debug\net8.0\ref\lab1.dll
